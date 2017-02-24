@@ -1,0 +1,152 @@
+*{
+	background-color: #911830;
+}
+
+.name {
+	padding-left: 40px;
+	font-family: 'Meddon';
+	font-size: 35px;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+	color: #FAEBD7;
+}
+
+a:hover{
+	color: black;
+}
+
+
+/*NAVBAR */
+
+.navBar {
+    font-size: 20px;
+    font-family: "Meddon";
+    text-align: center;
+    color: #FAEBD7;
+}
+
+.navBar ul {
+    height: auto;
+    padding: 8px 0px;
+    margin: 0px;
+}
+
+.navBar li { 
+display: inline; 
+padding-left: 25px;
+}
+
+
+
+/*NAVBAR*/
+
+
+.mainPicture {
+	text-align: center;
+}
+
+.picture {
+	width: 80vw;
+	outline: 5px solid #202020;
+	outline-offset: -50px;
+	border: 2px solid #FAEBD7;
+	padding: 20px;
+}
+
+.photo {
+	width: 80vw;
+	outline: 5px solid #202020;
+	outline-offset: -35px;
+	border: 2px solid #FAEBD7;
+	padding: 20px;
+}
+
+.pix {
+	width: 100px;
+	display: inline-block;
+}
+
+/*.leftPicture {
+	width: 22vw;
+	outline: 5px solid #202020;
+	outline-offset: -12px;
+	border: 2px solid #FAEBD7;
+/*	text-align: left;
+	display: inline-block;*/
+}
+
+.rightPicture {
+	width: 22vw;
+	outline: 5px solid #202020;
+	outline-offset: -12px;
+	border: 2px solid #FAEBD7;
+/*	text-align: right;
+	display: inline-block;	*/
+}*/
+
+.space {
+	height: 50px;
+}
+
+.smallSpace {
+	height: 30px;
+}
+
+.bio {
+	color: #FAEBD7;
+	font-family: "Oswald";
+	margin-right: 60px;
+	margin-left: 60px;
+	font-size: 18px;
+}
+
+.title {
+	font-family: "Meddon";
+	font-size: 23px;
+	font-weight: bold;
+}
+
+.quote {
+	margin-left: 100px;
+}
+
+.paragraph {
+	margin-left: 50px;
+}
+
+.audio {
+	text-align: center;
+}
+
+.contact {
+	color: #FAEBD7;	
+	text-align: center;
+	font-size: 20px;
+	font-family: "Oswald";
+}
+
+.footer {
+	color: #FAEBD7;	
+/*	text-align: center;*/
+	font-size: 12px;
+	font-family: "Meddon";
+	margin-left: 25px;
+}
+
+/*#recordings {
+	display: inline;
+	position: relative;
+}*/
+
+.bigSpace {
+	height: 100px;
+}
+
+.resume {
+	text-align: center;
+}
+
+
